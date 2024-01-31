@@ -1,4 +1,4 @@
-comment: false
+comment: true
 
 coverage:
   status:
@@ -7,7 +7,7 @@ coverage:
         threshold: 1%
 
 github_checks:
-  annotations: false
+  annotations: ture
 
 ignore:
   - 'contracts/src/v0.4'
